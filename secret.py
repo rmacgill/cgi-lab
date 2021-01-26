@@ -11,9 +11,6 @@ class FollowingTheTAsInstructionsError(Exception):
             "and to delete this error!"
         ))
 
-# Delete this line:
-raise FollowingTheTAsInstructionsError
-
 # Edit the following two lines:
-username = "<pick a username here>"
-password = "<pick a password here>"
+username = "Robert"
+password = "Bobert"
